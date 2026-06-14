@@ -1,0 +1,4 @@
+playwright==1.60.0
+rapidocr-onnxruntime==1.4.4
+pillow==12.2.0
+numpy==2.4.6

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Playwright persistent login state (contains cookies / session — never commit)
+browser-data/
+
+# Scraped output (data + images + OCR text)
+output/
+
+# Debug artifacts produced by --inspect
+_debug_*.html
+_debug_*.png
+_debug_*.json
+_debug_*.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
