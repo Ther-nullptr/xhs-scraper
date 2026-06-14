@@ -12,6 +12,10 @@ images** to extract the text printed inside them (so you can feed it to an LLM).
 
 English | [简体中文](README_zh_cn.md)
 
+<p align="center">
+  <img src="assets/demo.svg" alt="xhs-scraper demo run" width="820">
+</p>
+
 ---
 
 ## Why this approach

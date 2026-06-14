@@ -11,6 +11,10 @@
 
 [English](README.md) | 简体中文
 
+<p align="center">
+  <img src="assets/demo.svg" alt="xhs-scraper 运行演示" width="820">
+</p>
+
 ---
 
 ## 为什么用这种方式
